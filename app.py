@@ -12,7 +12,7 @@ def generar_contrasena(longitud): # Declarar una funcion => Usa la palabra reser
 
     for dato in range(longitud): # itero la longitud sera definida por el usuario
 
-        tipo = random.randint(1,3) #1 es simbolos, 2 va a ser numeros, y 3 va a ser letras
+        tipo = random.randint (1,3)
 
         if tipo == 1:
             contrasena  += random.choice(uno)

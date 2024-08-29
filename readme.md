@@ -51,4 +51,4 @@ def generar_contrasena(longitud):
 
 [Video Tutorial]()
 
-[Diapositivas]()
+[Diapositivas](https://docs.google.com/presentation/d/1unF66DqswADhr7izdcS2vBqVx0ZZmPOE/edit?usp=sharing&ouid=107296882825087429798&rtpof=true&sd=true)
