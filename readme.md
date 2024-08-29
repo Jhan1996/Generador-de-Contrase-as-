@@ -49,6 +49,6 @@ def generar_contrasena(longitud):
 
 ### Recursos
 
-[Video Tutorial]()
+[Video Tutorial](https://drive.google.com/file/d/1iQvZ_I34MKF1gbIcRHfQ6ZCWdBdx3QUf/view?usp=sharing)
 
 [Diapositivas](https://docs.google.com/presentation/d/1unF66DqswADhr7izdcS2vBqVx0ZZmPOE/edit?usp=sharing&ouid=107296882825087429798&rtpof=true&sd=true)
